@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "test"
+name = "txp_test"
 version = "0.1.0"
 description = "Testing some python functionalities with poetry"
 authors = ["Marco <kada9001@gmail.com>"]
